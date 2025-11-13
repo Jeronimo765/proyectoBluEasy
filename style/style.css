@@ -73,3 +73,65 @@ nav {
     color: white;
     margin-top: 10px;
 }
+
+.servicios {
+    background-color: #4BCAFF;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 170px 120px;
+}
+
+.service-1 {
+    color: #FFFFFF;
+    width: 400px;
+}
+
+.service-1 h2 {
+    font-weight: 400;
+}
+
+.service-2 {
+    color: #FFFFFF;
+    width: 400px;
+}
+
+.service-2 h2 {
+    font-weight: 400;
+}
+
+.service-3 {
+    color: #FFFFFF;
+    width: 400px;
+}
+
+.service-3 h2 {
+    font-weight: 400;
+}
+
+.service-4 {
+    color: #FFFFFF;
+    width: 400px;
+}
+
+.service-4 h2 {
+    font-weight: 400;
+}
+
+.texto-importante h2 {
+    color: #515F67;
+    font-weight: 300;
+}
+
+.linea {
+    width: 60px;
+    height: 3px;
+    background-color: #515F67;
+
+}
+
+.texto-importante .secciones-2 a{
+    text-decoration: none;
+    color: #737E84;
+    font-weight: bold;
+}
+
